@@ -250,11 +250,6 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Center Technician
 - GitHub: [apickham](https://github.com/apickham)
 
-#### Name: [Andy Currington](https://github.com/Ritterstahl)
-- Place: Lancaster, UK
-- Bio: Digital Serviecs Manager
-- GitHub: [Ritterstahl](https://github.com/Ritterstahl)
-
 #### Name: [Aniket](https://github.com/AniketRoy)
 - Place: New Delhi, India
 - Bio: Computer Science Under Graduate, Open Source Lover
